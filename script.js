@@ -13,7 +13,7 @@ tabButtons.forEach(btn => {
 
 // ---- link para o grupo ----
 // substitui o href abaixo pelo link de convite real do grupo de WhatsApp
-document.getElementById('whatsapp-link').href = 'https://chat.whatsapp.com/SUBSTITUIR_PELO_LINK_DO_GRUPO';
+document.getElementById('whatsapp-link').href = 'https://chat.whatsapp.com/FFXihqhCSKSJ2WfMtfE0RY?s=sw&p=i&mlu=4&ilr=4';
 
 // ---- frases aleatórias na página inicial ----
 // isto é só texto genérico do grupo (não letras de músicas) — edita à vontade
